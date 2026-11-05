@@ -1,0 +1,20 @@
+{
+  "name": "muslim-tracker",
+  "version": "1.0.0",
+  "description": "Website Muslim Tracker Lengkap & Modern - Pantau Sholat, Tilawah, Dzikir, Puasa, dan Amal Yaumiyah",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "muslim-tracker",
+    "mutabaah-yaumiyah",
+    "jadwal-sholat",
+    "quran-tracker",
+    "tasbih-digital",
+    "islamic-app"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
